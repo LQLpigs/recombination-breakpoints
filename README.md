@@ -1,0 +1,2 @@
+For the F0-F1-F2 family of hybrid, this R script infers the F1 meiotic recombination breakpoints of the X chromosome through determining the difference between the inferred F2 genotypes and F1 genotypes. In which, the F2 and F1 genotypes of the X chromosome are infered by the software of SHAPEIT2.
+To start this analysis, the X chromosome of F2 individuals need the haplotype phasing by the software of SHAPEIT2, and then the resultes of haplotype phasing are the inputs of this R script.
